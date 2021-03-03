@@ -1,7 +1,7 @@
 # Antoine LOZACH/@Zaklo
 [![Linkedin Badge](https://img.shields.io/badge/-Antoine%20Lozach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoine-lozach/)](https://www.linkedin.com/in/antoine-lozach/)
 [![Mail Badge](https://img.shields.io/badge/-lozachantoine@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lozachantoine@gmail.com)](mailto:lozachantoine@gmail.com)
-[![Malt Badge](https://img.shields.io/badge/-freelance%20:%20Antoine%20Lozach-c14438?style=flat-square&logo=malt&logoColor=white&link=https:https://www.malt.fr/profile/antoinelozach)](https://www.malt.fr/profile/antoinelozach)
+[![Malt Badge](https://img.shields.io/badge/-freelance%20:%20Antoine%20Lozach-#FF5C57?style=flat-square&logo=malt&logoColor=white&link=https:https://www.malt.fr/profile/antoinelozach)](https://www.malt.fr/profile/antoinelozach)
 
 ### 🛰 About
 I'm Antoine, creative & front-end develop @gobelins.
