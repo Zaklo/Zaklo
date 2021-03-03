@@ -1,6 +1,6 @@
 # Antoine LOZACH/@Zaklo
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Jestin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jestin-g/)](https://www.linkedin.com/in/antoine-lozach/)
-[![Mail Badge](https://img.shields.io/badge/-jestingabriel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lozachantoine@gmail.com)](mailto:lozachantoine@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Antoine%20Lozach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jestin-g/)](https://www.linkedin.com/in/antoine-lozach/)
+[![Mail Badge](https://img.shields.io/badge/-lozachantoine@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lozachantoine@gmail.com)](mailto:lozachantoine@gmail.com)
 
 ### 🌱 About
 I'm Antoine, creative & front-end develop @gobelins.
