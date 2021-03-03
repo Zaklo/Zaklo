@@ -2,14 +2,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Antoine%20Lozach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jestin-g/)](https://www.linkedin.com/in/antoine-lozach/)
 [![Mail Badge](https://img.shields.io/badge/-lozachantoine@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lozachantoine@gmail.com)](mailto:lozachantoine@gmail.com)
 
-### 🌱 About
+### 🛰 About
 I'm Antoine, creative & front-end develop @gobelins.
 -  **Localisation :** Paris, France
 
 
 ### 🛠 &nbsp;Tech Stack
 
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)&nbsp;
+![Javascript](https://img.shields.io/badge/-PHP-333333?style=flat&logo=js)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)&nbsp;\
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
