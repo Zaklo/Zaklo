@@ -11,7 +11,8 @@ I'm Antoine, creative & front-end develop @gobelins.
 
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)\
+![Gsap](https://img.shields.io/badge/-Gsap-333333?style=flat&logo=Gsap)\
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
