@@ -14,8 +14,7 @@ I'm Antoine, creative & front-end develop @gobelins.
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)&nbsp;
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=PhpStorm)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
