@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**Zaklo/Zaklo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# Gabriel Jestin/@jestin-g
+# Antoine LOZACH/@Zaklo
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Jestin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jestin-g/)](https://www.linkedin.com/in/antoine-lozach/)
 [![Mail Badge](https://img.shields.io/badge/-jestingabriel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lozachantoine@gmail.com)](mailto:lozachantoine@gmail.com)
 
@@ -34,5 +28,3 @@ I'm Antoine, creative & front-end develop @gobelins.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zaklo&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
-
--->
