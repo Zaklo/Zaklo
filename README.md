@@ -9,7 +9,7 @@ I'm Antoine, creative & front-end develop @gobelins.
 
 ### 🛠 &nbsp;Tech Stack
 
-![Javascript](https://img.shields.io/badge/-PHP-333333?style=flat&logo=js)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)&nbsp;\
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
