@@ -22,7 +22,7 @@ I'm Antoine, creative & front-end develop @gobelins.
 
 <p align="center">
 <a href="https://github.com/Zaklo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zaklo&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zaklo&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zaklo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zaklo&layout=compact&theme=dark" />
 </a>
 </p>
