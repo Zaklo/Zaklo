@@ -12,7 +12,7 @@ I'm Antoine, creative & front-end develop @gobelins.
 
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
-![Vuejs](https://img.shields.io/badge/-Vuejs-333333?style=flat&logo=Vuejs)
+![Vue.js](https://img.shields.io/badge/-Vuejs-333333?style=flat&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
