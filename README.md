@@ -4,7 +4,7 @@
 [![Malt Badge](https://img.shields.io/badge/-freelance%20:%20Antoine%20Lozach-ff5C57?style=flat-square&logo=malt&logoColor=white&link=https:https://www.malt.fr/profile/antoinelozach)](https://www.malt.fr/profile/antoinelozach)
 
 ### 🛰 About
-I'm Antoine, creative & front-end develop @gobelins.
+I'm Antoine, creative & front-end develop @studio9p.
 -  **Localisation :** Paris, France
 
 
