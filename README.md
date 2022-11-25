@@ -13,17 +13,8 @@ I'm Antoine, creative & front-end develop @studio9p.
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 ![Vue.js](https://img.shields.io/badge/-Vuejs-333333?style=flat&logo=Vue.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxtjs-333333?style=flat&logo=Nuxt.js)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=PhpStorm)&nbsp;
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Zaklo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zaklo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zaklo&layout=compact&theme=dark" />
-</a>
-</p>
